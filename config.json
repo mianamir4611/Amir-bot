@@ -1,0 +1,26 @@
+{
+  "language": "english",
+  "allowinbox": false,
+  "adminonly": false,
+  "operators": ["61588112703542"],
+  "loginoptions": {
+    "selfListen": false,
+    "selfListenEvent": false,
+    "listenEvents": true,
+    "listenTyping": false,
+    "updatePresence": false,
+    "forceLogin": true,
+    "autoMarkDelivery": false,
+    "autoMarkRead": true,
+    "autoReconnect": true,
+    "online": false,
+    "emitReady": false
+  },
+  "autopost": false,
+  "disabledcmds": [],
+  "disabledevnts": [],
+  "TIMEZONE": "Asia/Karachi",
+  "AUTO_ISLAMIC_POST": true,
+  "AUTO_GROUP_MESSAGE": true,
+  "REACT_DELETE_EMOJI": "😡"
+}
