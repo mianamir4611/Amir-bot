@@ -1,0 +1,8 @@
+node_modules/
+.env
+cookies.txt
+*.log
+.cache/
+states/
+Data/
+Fca_Database/
